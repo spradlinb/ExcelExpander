@@ -1,0 +1,9 @@
+c:\users\spradlinb\documents\visual studio 2012\Projects\ExcelExpander\ExcelExpander\bin\Debug\ExcelExpander.exe.config
+c:\users\spradlinb\documents\visual studio 2012\Projects\ExcelExpander\ExcelExpander\bin\Debug\ExcelExpander.exe
+c:\users\spradlinb\documents\visual studio 2012\Projects\ExcelExpander\ExcelExpander\bin\Debug\ExcelExpander.pdb
+c:\users\spradlinb\documents\visual studio 2012\Projects\ExcelExpander\ExcelExpander\obj\Debug\ExcelExpander.csprojResolveAssemblyReference.cache
+c:\users\spradlinb\documents\visual studio 2012\Projects\ExcelExpander\ExcelExpander\obj\Debug\ExcelExpander.exe
+c:\users\spradlinb\documents\visual studio 2012\Projects\ExcelExpander\ExcelExpander\obj\Debug\ExcelExpander.pdb
+c:\users\spradlinb\documents\visual studio 2012\Projects\ExcelExpander\ExcelExpander\bin\Debug\Excel.dll
+c:\users\spradlinb\documents\visual studio 2012\Projects\ExcelExpander\ExcelExpander\bin\Debug\ICSharpCode.SharpZipLib.dll
+c:\users\spradlinb\documents\visual studio 2012\Projects\ExcelExpander\ExcelExpander\bin\Debug\Excel.pdb
